@@ -5,7 +5,7 @@
 * 54443 - Carestia, Juan Andrés
 * 52335 - Merad , Juan Segundo
 * 53784 - Fernandez , Alejo
-* 54429 - Gorandi Marmol, Jose LUis
+* 54429 - Gorandi Marmol, Jose Luis
   
 
 ### Repositorios
