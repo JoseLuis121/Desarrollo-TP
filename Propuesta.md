@@ -38,7 +38,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Practica<br>2. CRUD Paciente<br>3. CRUD Odontologo<br>4. CRUD Turno<br>5. CRUD precio<br>6. CRUD Reserva<br>7. CRUD Mutual<br>8. CRUD Diente <br>9. CRUD Cara <br>10. CRUD Consulta |
-|CUU/Epic|1. Reservar un turno con un Odontolo<br>2. Enviar recordatorio de turno al paciente<br>3. Cancelacion de turno|<br>4. Calcular cobro de la atencion al paciente<br>5. |
+|CUU/Epic|1. Reservar un turno con un Odontolo<br>2. Enviar recordatorio de turno al paciente<br>3. Cancelacion de turno<br>4. Calcular cobro de la atencion al paciente<br>5. Actualizar el precio de las practica<br>6. Cambio de turno|
 
 
 ### Alcance Adicional Voluntario
@@ -49,6 +49,6 @@ Adicionales para Aprobación
 |:-|:-|
 |Listados |1. Historial del Paciente muestra turnos atendidos, fecha turno y practicas realizadas <br>2. Reservas filtradas por estado muestra fecha reserva y datos del paciente|
 |CUU/Epic|1. Realizar facturacion del cobro al paciente<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Otros|1. Solicitud de cambio de turno por email|
 
 
