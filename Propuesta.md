@@ -47,8 +47,8 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Historial del Paciente muestra turnos atendidos, fecha turno y practicas realizadas <br>2. Reservas filtradas por estado muestra fecha reserva y datos del paciente|
-|CUU/Epic|1. Realizar facturacion del cobro al paciente<br>2. Cancelación de reserva|
+|Listados |1. Historial del Paciente muestra turnos atendidos, fecha turno y practicas realizadas <br>2. Reservas filtradas por estado muestra fecha reserva y datos del paciente<br>3. Odontologos filtrados por Practicas <br> |
+|CUU/Epic|1. Realizar facturacion del cobro al paciente<br>2. Cancelación de reserva<br>3.Cambio de Mutual<br>4.Registrar practica realizada|
 |Otros|1. Solicitud de cambio de turno|
 
 
